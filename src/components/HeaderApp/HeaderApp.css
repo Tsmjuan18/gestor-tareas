@@ -1,0 +1,9 @@
+.header-app{
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+
+}
